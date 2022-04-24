@@ -17,8 +17,8 @@ body {
 .bg {
     background: url('image/galaxy.jpg') no-repeat center center/cover;
     position: absolute;
-    top : -50px;
-    left: -50px;
+    top : -10px;
+    left: -10px;
     width: 231vh ;
     height: 100vh;
     z-index: -1;
